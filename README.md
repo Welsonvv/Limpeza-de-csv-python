@@ -1,4 +1,4 @@
-# Dia 2 – Limpador Automático de CSV
+# Limpador Automático de CSV
 
 Script para limpeza básica de arquivos CSV, removendo espaços em colunas e dados, e excluindo colunas vazias.
 
